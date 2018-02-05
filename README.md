@@ -1,2 +1,3 @@
 # hello-world
-Just another first repository
+Hi, people!
+I'm just fine and nothing at all.
